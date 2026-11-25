@@ -1,0 +1,1 @@
+Coloca aqui pipeline_gradient_boosting.joblib exportado desde el notebook de Colab incluido. No se suministra el modelo entrenado ni el dataset.
